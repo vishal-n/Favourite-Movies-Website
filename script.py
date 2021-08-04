@@ -1,6 +1,6 @@
 
 from flask import Flask
-import pymysql
+#import pymysql
 import os
 import webbrowser
 from flask import Flask, render_template             
